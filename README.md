@@ -3,8 +3,6 @@
 Example usage:
 
 ```ruby
-
-
 the_bartender = Bartender.new("Joe")
 captain_jack = Customer.new("Cpt. Jack")
 

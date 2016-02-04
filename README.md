@@ -1,6 +1,6 @@
 # beerz
 
-Example usage:
+## Example usage:
 
 ```ruby
 the_bartender = Bartender.new("Joe")
@@ -19,6 +19,9 @@ captain_jack.drink!
 the_bartender.serve(captain_jack)
 ```
 
-collaborators:
+## Disclaimer:
+@foxycoder said it works!
+
+## collaborators:
  - @foxycoder
  - @yopefonic

@@ -1,1 +1,5 @@
 # beerz
+
+collaborators:
+ - @foxycoder
+ - @yopefonic
